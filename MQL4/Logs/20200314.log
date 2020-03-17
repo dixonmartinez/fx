@@ -1,0 +1,16 @@
+0	23:22:36.642	Custom indicator MACD EURUSD,H1: loaded successfully
+0	23:22:36.759	MACD EURUSD,H1: initialized
+0	23:22:36.850	Custom indicator MACD EURUSD,Daily: loaded successfully
+0	23:22:36.925	MACD EURUSD,Daily: initialized
+0	23:22:37.002	Custom indicator MACD EURUSD,H4: loaded successfully
+0	23:22:37.089	MACD EURUSD,H4: initialized
+0	23:22:37.172	Custom indicator MACD EURUSD,Monthly: loaded successfully
+0	23:22:37.219	MACD EURUSD,Monthly: initialized
+0	23:33:50.661	MACD EURUSD,H1: uninit reason 9
+0	23:33:50.661	MACD EURUSD,Daily: uninit reason 9
+0	23:33:50.661	MACD EURUSD,H4: uninit reason 9
+0	23:33:50.661	MACD EURUSD,Monthly: uninit reason 9
+0	23:33:50.872	Custom indicator MACD EURUSD,H1: removed
+0	23:33:50.881	Custom indicator MACD EURUSD,Daily: removed
+0	23:33:50.890	Custom indicator MACD EURUSD,H4: removed
+0	23:33:50.898	Custom indicator MACD EURUSD,Monthly: removed
